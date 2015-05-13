@@ -1,0 +1,9 @@
+E:\Rupam's Works\29.04\StudentsInformationApp\StudentsInformationApp\bin\Debug\StudentsInformationApp.exe.config
+E:\Rupam's Works\29.04\StudentsInformationApp\StudentsInformationApp\bin\Debug\StudentsInformationApp.exe
+E:\Rupam's Works\29.04\StudentsInformationApp\StudentsInformationApp\bin\Debug\StudentsInformationApp.pdb
+E:\Rupam's Works\29.04\StudentsInformationApp\StudentsInformationApp\obj\Debug\StudentsInformationApp.csprojResolveAssemblyReference.cache
+E:\Rupam's Works\29.04\StudentsInformationApp\StudentsInformationApp\obj\Debug\StudentsInformationApp.Properties.Resources.resources
+E:\Rupam's Works\29.04\StudentsInformationApp\StudentsInformationApp\obj\Debug\StudentsInformationApp.StudentsInformationUI.resources
+E:\Rupam's Works\29.04\StudentsInformationApp\StudentsInformationApp\obj\Debug\StudentsInformationApp.csproj.GenerateResource.Cache
+E:\Rupam's Works\29.04\StudentsInformationApp\StudentsInformationApp\obj\Debug\StudentsInformationApp.exe
+E:\Rupam's Works\29.04\StudentsInformationApp\StudentsInformationApp\obj\Debug\StudentsInformationApp.pdb
